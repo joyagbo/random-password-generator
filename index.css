@@ -1,13 +1,6 @@
-/* COLOR VARIABLES
-:root {
-  --bg: #2e1065;        /* deep purple */
-  /* --card: #1f2937;      dark slate */
-  /* --accent: #5eead4;    mint/teal */
-  /* --text: #f8fafc;      off white */
-  /* --muted: #94a3b8;     soft gray */
 
 body {
-    background-color: #1C1C1C;
+    background-color: #000000;
     color: #f8fafc;
     display: flex;
     align-items: center;
@@ -19,7 +12,7 @@ body {
 .container{
     background-color: #1f2937;
     padding: 40px;
-    /* border-radius: 12px; */
+    border-radius: 12px; 
     width: 360px;
 }
 
